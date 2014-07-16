@@ -1,4 +1,4 @@
-# agiles.uy web site
+# Agile Open Colombia web site
 
 ## Local development
 
